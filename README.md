@@ -42,4 +42,6 @@ The project is divided into two main folders:
     python captureStreamBackend/app.py
     ```
 3. Open in your browser
-    ```captureStreamFrontend/index.html```
+    ```
+    captureStreamFrontend/index.html
+    ```
