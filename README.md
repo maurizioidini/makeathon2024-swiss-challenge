@@ -35,7 +35,7 @@ The project is divided into two main folders:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repository/web-media-capture-app.git
+    git clone https://github.com/maurizioidini/web-stream-capture-app.git
     ```
 2. Run backend:
     ```bash
